@@ -2,7 +2,7 @@
 
 # Sword Creator
 
-**SinghCharacterCreator** is a Java-based GUI application that allows users to create and customize characters with various attributes. This program provides an interactive interface for selecting and customizing different aspects of a character, including its element, metal, hilt, colour, and more.
+**Sword Creator** is a Java-based GUI application that allows users to create and customize characters with various attributes. This program provides an interactive interface for selecting and customizing different aspects of a character, including its element, metal, hilt, colour, and more.
 
 ## Features
 
