@@ -1,0 +1,3 @@
+firetest:Fire:Carbon Steel:L-Shaped Hilt:Green:Sun Slash:
+watertest:Water:Stainless Steel:Basket Hilt:Red:Projectile Water:
+stormtest:Storm:Stainless Steel:Rapier Hilt:Blue:Tidal Blast:Electric Touch
