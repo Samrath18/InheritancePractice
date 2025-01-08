@@ -2,13 +2,13 @@
 
 # Sword Creator
 
-**SinghCharacterCreator** is a Java-based GUI application that allows users to create and customize characters with various attributes. This program provides an interactive interface for selecting and customizing different aspects of a character, including their element, metal, hilt, color, and more.
+**SinghCharacterCreator** is a Java-based GUI application that allows users to create and customize characters with various attributes. This program provides an interactive interface for selecting and customizing different aspects of a character, including its element, metal, hilt, colour, and more.
 
 ## Features
 
 - **Element Selection**: Users can choose from three elemental options (Fire, Water, Storm), each with their own set of custom attributes.
 - **Dynamic Visibility**: Depending on the element selected, different attributes become visible and editable. For example, selecting "Fire" will reveal fire-specific attributes, while selecting "Water" will show water-specific options.
-- **Data Entry**: Users can enter a character's name and select values for attributes like metal, hilt, and color from dropdown menus.
+- **Data Entry**: Users can enter a character's name and select values for attributes like metal, hilt, and colour from dropdown menus.
 - **Saving Character Data**: Once all required fields are filled, users can save the character data to a file (`SavedSwords.txt`) for later retrieval.
 - **Input Validation**: Ensures that all required fields are selected before saving.
 - **Editable Character Data**: Users can edit, view, or delete previously created characters.
@@ -32,29 +32,3 @@
 - Java
 - Swing (for building the graphical user interface)
 - File I/O (to save character data to a text file)
-
-## Setup
-
-To run this project locally, make sure you have the following:
-
-- JDK (Java Development Kit) version 8 or above
-- IDE like IntelliJ IDEA, Eclipse, or NetBeans for compiling and running Java code.
-
-### Clone the repository:
-
-```bash
-git clone https://github.com/username/SinghCharacterCreator.git
-```
-
-### To run the program:
-
-1. Open the project in your preferred IDE.
-2. Compile and run the `SinghCharacterCreator.java` file.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Let me know if you'd like any adjustments or additions!
